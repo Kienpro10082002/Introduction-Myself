@@ -1,0 +1,16 @@
+body {
+  background-color: lightskyblue;
+}
+
+hr {
+  border-style: dashed;
+  width: 100%;
+}
+
+h1 {
+  color: darkblue;
+}
+
+img {
+  height: 150px;
+}
