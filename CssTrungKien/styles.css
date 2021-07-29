@@ -1,5 +1,5 @@
 body {
-  background-color: lightskyblue;
+  background-color: lightblue;
 }
 
 hr {
@@ -13,4 +13,24 @@ h1 {
 
 img {
   height: 150px;
+}
+
+/*
+  Learn about ID attribute and class attribute.
+  Learn about div tag.
+*/
+#attribute{
+  size: 50px;
+}
+
+.Goku{
+  border: 3cm solid black;
+  background-color:rgb(102, 0, 0);
+  text-align: center;
+}
+
+.Vegeta{
+  border: 3cm solid black;
+  background-color: rgb(255, 0, 0);
+  text-align: center;
 }
